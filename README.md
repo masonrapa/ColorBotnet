@@ -22,7 +22,7 @@ fread <path_to_file> - gives you the content of some file
  
 clear - clear the admin terminal 
   
-splash <url> - shows up a browser window on the target's screen with the choosen URL
+splash <url> - shows up a browser window on the target's screen with the chosen URL
   
 hlogs - gets back the login data registered locally as Link / User / Password
   
@@ -30,7 +30,7 @@ hlink -  gets back the website history as Name / Date / Link
   
 hdwnl - gets back the download history on the device as Path / Web / Source
   
-discordsteal - try to catch any discord browser tokken registered
+discordsteal - try to catch any discord browser token registered
   
 shutdown - powers off automatically the device
   
